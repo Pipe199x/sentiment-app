@@ -1,0 +1,28 @@
+# Core analysis
+pandas
+numpy
+nltk
+spacy
+sentiment-analysis-spanish
+scikit-learn
+ydata-profiling
+
+# GUI
+tk
+
+# Interactive notebooks
+notebook
+jupyterlab
+
+flask
+gunicorn
+textblob
+
+flask>=2.2.0
+gunicorn>=23.0.0
+pandas
+numpy
+scikit-learn
+spacy
+sentiment-analysis-spanish
+ydata-profiling
